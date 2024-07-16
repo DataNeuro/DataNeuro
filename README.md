@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Marta! I am passionate about data, the human brain's intricacies, and the finance world. My enthusiasm for these fields drives me to learn and explore new concepts and ideas constantly. Whether it's analyzing complex datasets, understanding the neural mechanisms behind human behavior, or navigating the financial markets, I am always eager to dive deeper and expand my knowledge.
 
-<!--
-**DataNeuro/DataNeuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently working on my Spotify project using Pandas.
 
-Here are some ideas to get you started:
+🧠 I'm actively learning:
+* Python  (NumPy)
+* Maths and statistics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖I'm reading:
+* Mindset: The New Psychology of Success by Carol Dweck
+* Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics by Henry Hazlitt
+
+👩‍💻Tech Stack I use:
+* PostgreSQL
+* Python including Pandas library
+* PowerBI
+* Excel
