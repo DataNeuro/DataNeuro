@@ -4,7 +4,7 @@
 
 🧠 I'm actively learning:
 * Python  (NumPy)
-* Maths and statistics.
+* Maths and statistics
 
 📖I'm reading:
 * Mindset: The New Psychology of Success by Carol Dweck
@@ -12,6 +12,5 @@
 
 👩‍💻Tech Stack I use:
 * PostgreSQL
-* Python including Pandas library
-* PowerBI
-* Excel
+* Python including Pandas/NumPy library
+* Excel 
