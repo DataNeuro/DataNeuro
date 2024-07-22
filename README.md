@@ -13,4 +13,5 @@
 👩‍💻Tech Stack I use:
 * PostgreSQL
 * Python including Pandas/NumPy library
-* Excel 
+* Excel
+* PowerBI
