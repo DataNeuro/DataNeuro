@@ -3,15 +3,15 @@
 🌱 I’m currently working on my project in Power BI.
 
 🧠 I'm actively learning:
-* Python
-* Maths
+* Power BI
+* T-SQL
+* Data Warehouse
 
 📖I'm reading:
-* 'Miracle Morning' by Hald Elrod
-* 'Public speaking for success' by Dale Carnegie
+* 'Mindset: The New Psychology of Success' by Carol S. Dweck
 
 👩‍💻Skills:
+* T-SQL, PostgreSQL
+* PowerBI, Qlik
 * Excel
-* PostgreSQL
-* Python
-* PowerBI
+
