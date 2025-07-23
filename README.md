@@ -3,8 +3,8 @@
 🌱 I’m currently working on my project in Power BI.
 
 🧠 I'm actively learning:
-* Power BI
 * T-SQL
+* dbt
 * Data Warehouse
 
 📖I'm reading:
